@@ -1,5 +1,8 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Dante%20IBT&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=51&descAlign=70)
+
+
   <!-- Decoration Gif -->
 <!--
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" >
