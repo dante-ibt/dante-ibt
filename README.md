@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Full-Stack%20Web%20Developer&fontSize=60&animation=fadeIn&fontAlignY=36&descAlignY=51&descAlign=70)
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
+  <!-- Banner -->
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Dante%20IBT&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=51&descAlign=70) -->
-
 
   <!-- Decoration Gif -->
 <!--
