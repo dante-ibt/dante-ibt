@@ -29,7 +29,7 @@
 
   <!-- Description -->
 ```diff
-🛠️ +5 years of professional experience.
+🛠️ +6 years of professional experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 Information Technology Engineer (ITI).
 -  🚀 Optimizing web pages.
